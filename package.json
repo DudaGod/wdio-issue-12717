@@ -1,0 +1,26 @@
+{
+  "name": "wdio-issue-12717",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MRE for issue - https://github.com/webdriverio/webdriverio/issues/12717",
+  "main": "wdio.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DudaGod/wdio-issue-12717.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DudaGod/wdio-issue-12717/issues"
+  },
+  "homepage": "https://github.com/DudaGod/wdio-issue-12717#readme",
+  "dependencies": {
+    "@wdio/browser-runner": "^8.36.0",
+    "@wdio/cli": "^8.36.0",
+    "webdriverio": "^8.36.0"
+  }
+}
